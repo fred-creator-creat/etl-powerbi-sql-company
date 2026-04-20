@@ -56,7 +56,7 @@ Abaixo, as capturas de tela que comprovam a execução e a qualidade técnica do
 ### 🖼️ Dashboards Finais
 | Página 1: Gestão | Página 2: Operações | Página 3: Geográfica |
 |:---:|:---:|:---:|
-| ![Gestão](./assets/dashboard-01-gestao-colaboradores.png) | ![Operações](./assets/dashboard-02-projetos-operacoes.png) | ![Geográfica](./assets/dashboard-03-distribuicao-geografica.png) |
+| ![Gestão](./assets/01-gestao-colaboradores.png) | ![Operações](./assets/02-projetos-operacoes.png) | ![Geográfica](./assets/03-distribuicao-geografica.png) |
 
 ### ⚙️ Modelagem e Processamento (ETL)
 * **Modelagem de Dados (Relacionamentos):**
