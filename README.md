@@ -1,6 +1,6 @@
 # 📊 Desafio de Projeto: Processamento de Dados e Dashboard Gerencial (MySQL + Power BI)
 
-Este repositório contém o projeto de Processamento e Visualização de Dados baseado no cenário 'Company'. O trabalho consistiu na extração e tratamento de dados utilizando Python no Google Colab, seguido da construção de um dashboard interativo no Power BI para análise de indicadores gerenciais.
+Este repositório contém o projeto de **Processamento e Visualização de Dados** baseado no cenário 'Company'. O trabalho consistiu na extração e tratamento de dados utilizando **Python no Google Colab**, seguido da construção de um dashboard interativo no **Power BI** para análise de indicadores gerenciais.
 ---
 
 ## 🏛️ Contexto e Parcerias
