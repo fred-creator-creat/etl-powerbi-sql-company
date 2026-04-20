@@ -40,6 +40,8 @@ Para visualizar o projeto na íntegra, você pode baixar o arquivo fonte abaixo:
 
 * [📥 **Baixar Arquivo Power BI (.pbix)**](Processamento_de_Dados_Modelo_Company.pbix)
   * *Nota: É necessário o Power BI Desktop instalado para abrir o arquivo.*
+* [🐍 **Ver Script de Processamento (Python/Notebook)**](./Conexão_MySQL_Projeto_Company.ipynb)
+  * *Nota: Clique para visualizar o código de criação do banco e tratamento de dados diretamente no GitHub.*
 
 ---
 
