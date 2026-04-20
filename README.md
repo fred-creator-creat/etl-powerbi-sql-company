@@ -7,6 +7,7 @@ Este repositório contém o projeto de integração entre Banco de Dados relacio
 ## 🏛️ Contexto e Parcerias
 
 * **Plataforma de Ensino**: [DIO (Digital Innovation One)](https://www.dio.me/)
+* **Empresa Patrocinadora**: [Klabin](https://www.klabin.com.br/)
 * **Formação**: Power BI Analyst
 * **Desenvolvedor**: [Fred Cavalheiro]
 
