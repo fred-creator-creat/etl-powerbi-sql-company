@@ -38,7 +38,7 @@ Como parte do meu processo de transição de carreira, este projeto exigiu resil
 
 Para visualizar o projeto na íntegra, você pode baixar o arquivo fonte abaixo:
 
-* [📥 **Baixar Arquivo Power BI (.pbix)**](Processamento_de_Dados_Modelo_Company.pbix)
+* [📥 **Baixar Arquivo Power BI (.pbix)**](Processamento_de_ Dados_Modelo_Company.pbix)
   * *Nota: É necessário o Power BI Desktop instalado para abrir o arquivo.*
 
 ---
