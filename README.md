@@ -1,7 +1,6 @@
 # 📊 Desafio de Projeto: Processamento de Dados e Dashboard Gerencial (MySQL + Power BI)
 
-Este repositório contém o projeto de integração entre Banco de Dados relacional e Business Intelligence. O objetivo foi realizar o processamento de uma base de dados (cenário 'Company') utilizando Python no Google Colab, com a posterior criação de um dashboard interativo no Power BI.
-
+Este repositório contém o projeto de Processamento e Visualização de Dados baseado no cenário 'Company'. O trabalho consistiu na extração e tratamento de dados utilizando Python no Google Colab, seguido da construção de um dashboard interativo no Power BI para análise de indicadores gerenciais.
 ---
 
 ## 🏛️ Contexto e Parcerias
@@ -15,10 +14,11 @@ Este repositório contém o projeto de integração entre Banco de Dados relacio
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **[Google Colab](https://colab.research.google.com/)**: Ambiente de nuvem utilizado para execução do script Python e conexão com o banco de dados.
-* **[Python / Pandas](https://pandas.pydata.org/)**: Processamento e limpeza de dados (ETL).
-* **[MySQL](https://www.mysql.com/)**: Sistema de gerenciamento de banco de dados relacional para armazenamento dos dados do cenário 'Company'.
-* **[Microsoft Power BI Desktop](https://powerbi.microsoft.com/)**: Criação do modelo relacional, tratamento no Power Query e visualização de dados.
+* **[Google Colab](https://colab.research.google.com/)**: Ambiente de nuvem utilizado para a instalação do servidor MySQL e execução de scripts Python.
+* **[MySQL Server](https://www.mysql.com/)**: Configurado diretamente no ambiente Linux do Colab com autenticação `mysql_native_password` para persistência e manipulação dos dados.
+* **[Python / Pandas](https://pandas.pydata.org/)**: Utilizado para o processamento, limpeza e carga de dados (ETL).
+* **[MySQL Connector Python](https://dev.mysql.com/doc/connector-python/en/)**: Driver utilizado para a comunicação entre o script Python e o banco de dados.
+* **[Microsoft Power BI Desktop](https://powerbi.microsoft.com/)**: Criação do modelo relacional, tratamento avançado no Power Query e desenvolvimento dos visuais.
 
 ---
 
