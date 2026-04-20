@@ -71,7 +71,7 @@ Abaixo, as capturas de tela que comprovam a execução e a qualidade técnica do
 
 ## 📞 Contato e Conexão
 **Fred Cavalheiro**
-* 🔄 **Transição de Carreira:** De Segurança Patrimonial para Tecnologia/Dados.
+* 🔄 **Transição de Carreira:** De Segurança Patrimonial (Vigilante) para Tecnologia/Dados.
 * 🎓 **Técnico em Desenvolvimento de Sistemas** (Senac).
 * 📚 **Estudante de:** Machine Learning e Análise de Dados (Python, Neo4j, Power BI e Excel).
 * 🔗 **[Meu Perfil no LinkedIn](https://www.linkedin.com/in/fred-cavalheiro/)**
