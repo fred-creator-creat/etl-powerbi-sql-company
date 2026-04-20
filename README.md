@@ -1,6 +1,7 @@
 # 📊 Desafio de Projeto: Processamento de Dados e Dashboard Gerencial (MySQL + Power BI)
 
 Este repositório contém o projeto de **Processamento e Visualização de Dados** baseado no cenário 'Company'. O trabalho consistiu na extração e tratamento de dados utilizando **Python no Google Colab**, seguido da construção de um dashboard interativo no **Power BI** para análise de indicadores gerenciais.
+
 ---
 
 ## 🏛️ Contexto e Parcerias
@@ -30,6 +31,15 @@ Como parte do meu processo de transição de carreira, este projeto exigiu resil
 * **Substituição da Azure**: Por não possuir conta corporativa e visando evitar custos de licenciamento/cartão de crédito na nuvem Azure, optei por uma arquitetura **100% Cloud e Gratuita** utilizando Google Colab e scripts Python para simular a integração com o banco de dados.
 * **Hardware e Resiliência**: O desenvolvimento foi realizado em máquina emprestada com limitações de hardware, o que impossibilitou o uso de ferramentas locais pesadas (como o MySQL Workbench). Toda a manipulação de dados foi feita via código no Colab, garantindo a integridade do processamento mesmo com restrições físicas.
 * **Restrição de Publicação**: Devido à falta de e-mail institucional para o Power BI Service, a entrega é composta pelas evidências visuais (capturas de tela) e pelos arquivos fonte (`.pbix` e `.ipynb`).
+
+---
+
+## 📂 Entregáveis do Projeto
+
+Para visualizar o projeto na íntegra, você pode baixar o arquivo fonte abaixo:
+
+* [📥 **Baixar Arquivo Power BI (.pbix)**](./processamento-de-dados-modelo-company.pbix)
+  * *Nota: É necessário o Power BI Desktop instalado para abrir o arquivo.*
 
 ---
 
