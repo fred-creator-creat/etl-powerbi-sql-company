@@ -15,8 +15,9 @@ Este repositório contém o projeto de **Processamento e Visualização de Dados
 ## 🛠️ Tecnologias Utilizadas
 
 * **[Google Colab](https://colab.research.google.com/)**: Ambiente de nuvem utilizado para a instalação do servidor MySQL e execução de scripts Python.
+* **[Python](https://www.python.org/)**: Linguagem de programação principal utilizada para automação e manipulação de dados.
+* **[Pandas](https://pandas.pydata.org/)**: Biblioteca especializada para análise, limpeza e estruturação de dados (ETL).
 * **[MySQL Server](https://www.mysql.com/)**: Configurado diretamente no ambiente Linux do Colab com autenticação `mysql_native_password` para persistência e manipulação dos dados.
-* **[Python / Pandas](https://pandas.pydata.org/)**: Utilizado para o processamento, limpeza e carga de dados (ETL).
 * **[MySQL Connector Python](https://dev.mysql.com/doc/connector-python/en/)**: Driver utilizado para a comunicação entre o script Python e o banco de dados.
 * **[Microsoft Power BI Desktop](https://powerbi.microsoft.com/)**: Criação do modelo relacional, tratamento avançado no Power Query e desenvolvimento dos visuais.
 
