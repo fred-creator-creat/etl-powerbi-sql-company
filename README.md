@@ -65,7 +65,7 @@ Abaixo, as capturas de tela que comprovam a execução e a qualidade técnica do
 * **Processamento de Tabelas (Power Query):**
 | Tabela Employee | Tabela Departament | Tabela Project |
 |:---:|:---:|:---:|
-| ![Employee](./assets/01-employee-transformacao-parte1.png) | ![Employee](./assets/01-employee-transformacao-parte2.png) | ![Departament](./assets/02-departament-limpeza.png) | ![Project](./assets/04-project-configuracao.png) |
+| ![Employee](./assets/tabela-01-employee-transformacao-parte1.png) | ![Employee](./assets/tabela-01-employee-transformacao-parte2.png) | ![Departament](./assets/tabela-02-departament-limpeza.png) | ![Project](./assets/tabela-04-project-configuracao.png) |
 
 ---
 
